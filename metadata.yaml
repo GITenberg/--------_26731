@@ -1,0 +1,40 @@
+_repo: '--------_26731'
+_version: 0.1.0
+alternative_title: Antigoni
+contributor:
+  translator:
+    agent_name: Chrestomanos, Konstantinos
+    aliases:
+    - Christomanos, Constantin
+    - Χρηστομάνος, Κωνσταντίνος
+    birthdate: 1867
+    deathdate: 1911
+    gutenberg_agent_id: '32437'
+    url: http://www.gutenberg.org/2009/agents/32437
+    wikipedia: http://el.wikipedia.org/wiki/%CE%9A%CF%89%CE%BD%CF%83%CF%84%CE%B1%CE%BD%CF%84%CE%AF%CE%BD%CE%BF%CF%82_%CE%A7%CF%81%CE%B7%CF%83%CF%84%CE%BF%CE%BC%CE%AC%CE%BD%CE%BF%CF%82
+covers:
+- cover_type: archival
+  image_path: 26731-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sophocles
+    alias: Σοφοκλής
+    birthdate: -496
+    deathdate: -406
+    gutenberg_agent_id: '26'
+    url: http://www.gutenberg.org/2009/agents/26
+    wikipedia: http://en.wikipedia.org/wiki/Sophocles
+description: ''
+gutenberg_issued: '2008-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26731'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Antigone (Mythological character) -- Drama'
+- !lcc 'PA'
+title: Αντιγόνη
+url: http://www.gutenberg.org/ebooks/26731
